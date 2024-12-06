@@ -1,0 +1,46 @@
+/* Your styles here */
+.bg-dark {
+    background-color: #222f3e;
+    color: #eaeded;
+}
+
+.menu {
+    background-color: #345477;
+    color: white;
+}
+li {
+    display: inline;
+    padding: 0.7%;
+}
+.text-center{
+    text-align: center;
+    width: 100%;
+}
+.bg-yellow {
+    background-color: #f56600 ;
+    color: #eaeded;
+    margin: 1%;  
+          
+}
+
+.bgUp {
+    background-image: url(../images/bg-image.png);
+    text-align: center;
+    color: #eaeded;
+    padding: 5%;
+}
+
+.py-1 {
+    padding: 1rem 0;
+}
+
+.img {
+    display: inline-block;
+    width: 24%;
+    overflow: hidden;
+    height: 190px;
+}
+
+img {
+    width: 100%;
+}
